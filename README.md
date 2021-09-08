@@ -28,5 +28,5 @@ Rscript simulations.R 1000
 Rscript simulTable2and3.R 1000 1000 4 1 1.2 1 1000
 Rscript plots.R
 
-The ANGSD-ASSO directory holds R code for running ANGSD-asso's latent model and dosage model.
+The "ANGSD-asso" directory holds R code for running ANGSD-asso's latent model and dosage model in R.
 
