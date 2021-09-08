@@ -19,6 +19,8 @@ parallel
 SQUAREM
 
 Furthermore that the binaries of "angsd" and "snptest_v2.5.4-beta3" are in the directory, to make these scripts work.
+(angsd can be obtained from its github: https://github.com/ANGSD/angsd)
+(snptest can be be obtained here: https://www.well.ox.ac.uk/~gav/snptest/#download)
 
 Example of how to run:
 
