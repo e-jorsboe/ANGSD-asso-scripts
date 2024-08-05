@@ -30,9 +30,9 @@ Rscript plots.R
 
 The "ANGSD-asso" directory holds R code for running ANGSD-asso's latent model and dosage model in R.
 
-###############################################
+
+
 ## NOTE ON HOW TO COMPILE ANGSD 
-###############################################
 
 #compile with local version of htslib
 make HTSSRC=../htslib/
